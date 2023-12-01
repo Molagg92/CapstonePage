@@ -10,3 +10,4 @@
 
 12 :04 pm : I am having trouble remmebring C#
 
+12:24 : im starting to loose my mojo, i dont remember anythung about C#. 
