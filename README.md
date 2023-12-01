@@ -5,3 +5,5 @@
 9:30 am : so I suppose there is a dateTime object in C#. Im going to play around with it. But first a break.
 
 10: 14 am : Change my mind, im going to keep reading around before I play with date time.
+
+11:40 am : forogot to check in
