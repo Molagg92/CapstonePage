@@ -14,3 +14,5 @@
 
 
 12:55 : started reading the C# basics. This might be the rest of the day.
+
+1:32 : continueing to reead through the lessons. I might pick this back up later.
