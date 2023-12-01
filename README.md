@@ -3,3 +3,5 @@
 8:44 am : I have been watchng youtube video on the subject, i think it might be time to start planning out the schema / component tree.
 
 9:30 am : so I suppose there is a dateTime object in C#. Im going to play around with it. But first a break.
+
+10: 14 am : Change my mind, im going to keep reading around before I play with date time.
