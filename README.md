@@ -11,3 +11,6 @@
 12 :04 pm : I am having trouble remmebring C#
 
 12:24 : im starting to loose my mojo, i dont remember anythung about C#. 
+
+
+12:55 : started reading the C# basics. This might be the rest of the day.
