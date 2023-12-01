@@ -7,3 +7,6 @@
 10: 14 am : Change my mind, im going to keep reading around before I play with date time.
 
 11:40 am : forogot to check in
+
+12 :04 pm : I am having trouble remmebring C#
+
