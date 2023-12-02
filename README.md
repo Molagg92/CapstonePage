@@ -28,3 +28,5 @@ Break!
 `7:00 am` : it worked, spent time reformating the README, filled out the Proposal
 
 `7:30 am` : Started working on the component tree. or Schema map i think its called.
+
+`8:10 am` : stillworking on the map. im not sure exactly how i want this to look
