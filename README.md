@@ -4,11 +4,11 @@
 
 `9:30 am` : so I suppose there is a dateTime object in C#. Im going to play around with it. But first a break.
 
-`10: 14 am` : Change my mind, im going to keep reading around before I play with date time.
+`10:14 am` : Change my mind, im going to keep reading around before I play with date time.
 
 `11:40 am` : forogot to check in
 
-`12 :04 pm `: I am having trouble remmebring C#
+`12:04 pm `: I am having trouble remmebring C#
 
 `12:24 pm` : im starting to loose my mojo, i dont remember anythung about C#. 
 
@@ -25,4 +25,6 @@ Break!
 
 `6:45 am` : realized i was missing a csproj and a program.cs file. hopefully this will get the code to run in the console.
 
-`7 : 00 am` : it worked, spent time reformating the README, filled out the Proposal
+`7:00 am` : it worked, spent time reformating the README, filled out the Proposal
+
+`7:30 am` : Started working on the component tree. or Schema map i think its called.
