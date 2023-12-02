@@ -30,3 +30,5 @@ Break!
 `7:30 am` : Started working on the component tree. or Schema map i think its called.
 
 `8:10 am` : stillworking on the map. im not sure exactly how i want this to look
+
+`8:50 am` : the map still needs work, but I need breakfast now. I will return to this at a later time
