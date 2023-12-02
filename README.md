@@ -21,6 +21,7 @@
 
 ======================
 Break!
-======================
 
 6:30 am : Im back
+
+6:45 am : realized i was missing a csproj and a program.cs file. hopefully this will get the code to run in the console.
