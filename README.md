@@ -18,3 +18,9 @@
 1:32 : continueing to reead through the lessons. I might pick this back up later.
 
 1:55 pm : founda  good stopping point. I will pick this back up later today. or the weekend.
+
+======================
+Break!
+======================
+
+6:30 am : Im back
