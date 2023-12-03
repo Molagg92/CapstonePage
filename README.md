@@ -18,7 +18,7 @@
 
 `1:55 pm` : founda  good stopping point. I will pick this back up later today. or the weekend.
 
-======================
+======================\
 Break!
 
 `6:30 am` : Im back
@@ -32,3 +32,8 @@ Break!
 `8:10 am` : stillworking on the map. im not sure exactly how i want this to look
 
 `8:50 am` : the map still needs work, but I need breakfast now. I will return to this at a later time
+
+======================\
+Break!
+
+`8:35 pm` : Getting back to this schema tree. 
