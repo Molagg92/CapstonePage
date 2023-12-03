@@ -41,3 +41,5 @@ Break!
 
 `9:15 pm` : the map is basically done, but i want to study my old projects for a little bit. 
 ![Alt text](<./img/Screenshot 2.png>)
+
+`9:55 pm` : still readying throguh C# lessons, its getting kinda late tho.
