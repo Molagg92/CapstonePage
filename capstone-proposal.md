@@ -6,7 +6,7 @@
 
 `List the absolute minimum features the project requires to meet this purpose or goal`: The Calandar for keeping track of the Employee's work schedule, the upcoming and current service appointments for the Client.
 
-`What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.`: I suppose just what ever we elarned back in C#. I want to build the back end using C# .NET core 6, with React for the front end. Hopefuly i will be able to come back to this and udate it once I have a more clear vision.
+`What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.`: I suppose just what ever we elarned back in C#. I want to build the entire application using C# .NET core 6. Hopefuly i will be able to come back to this and udate it once I have a more clear vision.
 
 `If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.`: the minimum viable product would be the calandar working, with a list of full CRUD for employees, and the same for Clients. If I have spare time, I will try to hook up Paypal and/or Cashapp APIs so I the application can allow for online transactions.
 
