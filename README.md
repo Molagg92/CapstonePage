@@ -48,3 +48,5 @@ Break!
 
 ======================\
 Break!
+
+`3:33 pm` : still going over C#. I forgot what a pain bootstrap was for me
