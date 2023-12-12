@@ -50,3 +50,12 @@ Break!
 Break!
 
 `3:33 pm` : still going over C#. I forgot what a pain bootstrap was for me
+
+`3:59 pm` : Just checking in , still reading about C#
+
+`4:26 pm` gonna step away for a while, ill be back later tonight
+
+=========================\
+Break!
+
+`7:27 am` : goinna start actually making this thing now
