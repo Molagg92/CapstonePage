@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-// using Capstone.Models;
+using Capstone.Models;
 
 namespace Capstone.Controllers
 {
@@ -8,9 +8,12 @@ namespace Capstone.Controllers
     [Route("/")]
     public ActionResult Employee()
     {
-      // Employee starterCleaningLady = new Employee("Add first Cleaning Lady to the List");
-      // return View(starterCleaningLady);
-      return View();
+      CleaningLady starterCleaningLady = new CleaningLady();
+      starterCleaningLady.Name = "Lora";
+      return View(starterCleaningLady);
+
+    
+      
     }
   }
 }
