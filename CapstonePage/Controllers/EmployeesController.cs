@@ -13,18 +13,17 @@ namespace Capstone.Controllers
       return View(allEmployees);
     }
 
-    [HttpPost("/employees")]
-    public ActionResult Employees(string name, int phone)
-    {
-       Employee starterEmployee = new Employee(name ,  phone);
-      return View("Index");
-    }
-
-
     [HttpGet("/employees/new")]
-    public ActionResult EmployeeForm()
+    public ActionResult CreateForm()
     {
       return View();
+    }
+
+    [HttpPost("/employees")]
+    public ActionResult Create(string name, int phone)
+    {
+      Employee myEmployee = new Employee(name, phone);
+      return RedirectToAction("Index");
     }
   } 
 }
