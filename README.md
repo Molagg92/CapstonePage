@@ -72,12 +72,15 @@ anotehr break
 
 
 `4:15 pm` : added some basic views and routes with a controller an model. so far so good... 
- 
- `5: 08 pm` : jsut readingm ore C# lessons
 
- `5: 28 pm` : making more views and routes, this is going better than i thought. 
+`5: 08 pm` : jsut readingm ore C# lessons
 
- `5:58 pm` : cleaned up the uia little, just for my own sanity.
+`5: 28 pm` : making more views and routes, this is going better than i thought. 
 
- `6:45 pm` : I thin kI need a break, I getting lsot in the sauce. 
- 
+`5:58 pm` : cleaned up the uia little, just for my own sanity.
+
+`6:45 pm` : I thin kI need a break, I getting lsot in the sauce. 
+========================\
+I'm just gonna hold back my break callouts, theres gonna be alot of em.
+
+`6:15 am` : turning routes into HTTP methodds. gonn keep reading

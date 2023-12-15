@@ -5,23 +5,23 @@ namespace Capstone.Controllers
 {
   public class HomeController : Controller
   {
-    [Route("/")]
+    [HttpGet("/")]
     public ActionResult Index()
     {
       CleaningLady starterCleaningLady = new CleaningLady("Lora", 555);
       return View(starterCleaningLady);
     }
 
-    [Route("/employees")]
-    public ActionResult Employees(string description)
+    [HttpPost("/employees")]
+    public ActionResult Employees(string name, int phone)
     {
-       CleaningLady starterCleaningLady = new CleaningLady(description ,  555);
+       CleaningLady starterCleaningLady = new CleaningLady(name ,  phone);
       return View("Index", starterCleaningLady);
     }
 
 
-    [Route("/employees/new")]
-    public ActionResult newEmployee()
+    [HttpGet("/employees/new")]
+    public ActionResult EmployeeForm()
     {
       return View();
     }
