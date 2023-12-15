@@ -6,6 +6,13 @@ namespace Capstone.Controllers
   public class HomeController : Controller
   {
     [Route("/")]
+    public ActionResult Index()
+    {
+      CleaningLady starterCleaningLady = new CleaningLady();
+      return View(starterCleaningLady);
+    }
+
+    [Route("/employee")]
     public ActionResult Employee()
     {
       CleaningLady starterCleaningLady = new CleaningLady();
