@@ -10,12 +10,16 @@
       crossorigin="anonymous">
   </head>
   <body>
-    <h1>Welcome to Ana's House Cleaning Buisness</h1>
-    <h5>This is a Test, here is a list of businesss stuff</h5>
+    @using Capstone.Models;
+
+    <h1>To Do List</h1>
     <ul>
-      <li>@Model.Name</li>
+      @foreach (CleaningLady employee in Model)
+      {
+        <li>@employee.Name</li>
+      }
+
     </ul>
-    <a href="/employees/new">Add a new item.</a>
+    <a href="/employees/new">Add a new employee.</a>
   </body>
 </html>
-

@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Capstone.Models;
+using System.Collections.Generic;
 
 namespace Capstone.Controllers
 {
@@ -8,15 +9,15 @@ namespace Capstone.Controllers
     [HttpGet("/")]
     public ActionResult Index()
     {
-      CleaningLady starterCleaningLady = new CleaningLady("Lora", 555);
-      return View(starterCleaningLady);
+      List<CleaningLady> allCleaningLadys = CleaningLady.GetAll();
+      return View(allCleaningLadys);
     }
 
     [HttpPost("/employees")]
     public ActionResult Employees(string name, int phone)
     {
        CleaningLady starterCleaningLady = new CleaningLady(name ,  phone);
-      return View("Index", starterCleaningLady);
+      return View("Index");
     }
 
 

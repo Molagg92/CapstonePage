@@ -68,6 +68,8 @@ anotehr break
 `5:42 pm` : still re learning C#, meessing with Razor and MVC stuff. Why did I do this to myself?
 
 ======================\
+I'm just gonna hold back my break callouts, theres gonna be alot of em.
+
 `3:45 pm` :  hoping back in.
 
 
@@ -80,7 +82,11 @@ anotehr break
 `5:58 pm` : cleaned up the uia little, just for my own sanity.
 
 `6:45 pm` : I thin kI need a break, I getting lsot in the sauce. 
+
+
 ========================\
-I'm just gonna hold back my break callouts, theres gonna be alot of em.
+
 
 `6:15 am` : turning routes into HTTP methodds. gonn keep reading
+
+`6:38 am` : List is commign together
