@@ -1,30 +1,15 @@
 using Microsoft.AspNetCore.Mvc;
-using Capstone.Models;
-using System.Collections.Generic;
 
 namespace Capstone.Controllers
 {
-  public class HomeController : Controller
-  {
-    [HttpGet("/")]
-    public ActionResult Index()
+    public class HomeController : Controller
     {
-      List<Employee> allEmployees = Employee.GetAll();
-      return View(allEmployees);
-    }
 
-    [HttpPost("/employees")]
-    public ActionResult Employees(string name, int phone)
-    {
-       Employee starterEmployee = new Employee(name ,  phone);
-      return View("Index");
-    }
+      [HttpGet("/")]
+      public ActionResult Index()
+      {
+        return View();
+      }
 
-
-    [HttpGet("/employees/new")]
-    public ActionResult EmployeeForm()
-    {
-      return View();
     }
-  } 
 }

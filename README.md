@@ -100,3 +100,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `1:16 pm` : back
 
 `1:25 pm` : fnished refactoring. notusng Cleaing Lady anymore, just employee
+
+`2:05 pm` : did more UI clean up, moved somefiles around. taking htsi nice and slow.

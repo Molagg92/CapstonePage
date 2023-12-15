@@ -9,9 +9,24 @@
       integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" 
       crossorigin="anonymous">
   </head>
-   <body>
-    <h1>TEST!</h1>
-    <a href="/employees/new">Add a new item.</a>
+  <body>
+    @using Capstone.Models;
+
+    <h1>Ana's House Cleaning Project</h1>
+    
+    @if (Model.Count == 0)
+    {
+      <p>test if list is empty.</p>
+    }
+    <ul>
+      @foreach (Employee cleaningLady in Model)
+      {
+        <li>@cleaningLady.Name</li>
+        <li>@cleaningLady.Phone</li>
+      }
+
+    </ul>
+    <a href="/">back to home</a>
     <br />
     <a href="/employees">See a List of Employees.</a>
   </body>
