@@ -10,10 +10,14 @@ namespace Capstone.Controllers
     {
       CleaningLady starterCleaningLady = new CleaningLady();
       starterCleaningLady.Name = "Lora";
+      starterCleaningLady.Phone = 555;
       return View(starterCleaningLady);
+    }
 
-    
-      
+    [Route("/form")]
+    public ActionResult EmployeeForm()
+    {
+      return View(); 
     }
   }
 }
