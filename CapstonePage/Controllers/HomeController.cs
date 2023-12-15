@@ -19,5 +19,14 @@ namespace Capstone.Controllers
     {
       return View(); 
     }
-  }
+
+    [Route("/newEmployee")]
+    public ActionResult newEmployee(int phone, string name)
+    {
+      CleaningLady myLetterVariable = new CleaningLady();
+      myLetterVariable.Name = name;
+      myLetterVariable.Phone = phone;
+      return View(myLetterVariable);
+    }
+  } 
 }

@@ -74,3 +74,7 @@ anotehr break
 `4:15 pm` : added some basic views and routes with a controller an model. so far so good... 
  
  `5: 08 pm` : jsut readingm ore C# lessons
+
+ `5: 28 pm` : making more views and routes, this is going better than i thought. 
+
+ 
