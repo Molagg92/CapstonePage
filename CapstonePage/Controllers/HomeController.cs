@@ -8,32 +8,22 @@ namespace Capstone.Controllers
     [Route("/")]
     public ActionResult Index()
     {
-      CleaningLady starterCleaningLady = new CleaningLady();
+      CleaningLady starterCleaningLady = new CleaningLady("Lora", 555);
       return View(starterCleaningLady);
     }
 
-    [Route("/employee")]
-    public ActionResult Employee()
+    [Route("/employees")]
+    public ActionResult Employees(string description)
     {
-      CleaningLady starterCleaningLady = new CleaningLady();
-      starterCleaningLady.Name = "Lora";
-      starterCleaningLady.Phone = 555;
-      return View(starterCleaningLady);
+       CleaningLady starterCleaningLady = new CleaningLady(description ,  555);
+      return View("Index", starterCleaningLady);
     }
 
-    [Route("/form")]
-    public ActionResult EmployeeForm()
-    {
-      return View(); 
-    }
 
-    [Route("/newEmployee")]
-    public ActionResult newEmployee(int phone, string name)
+    [Route("/employees/new")]
+    public ActionResult newEmployee()
     {
-      CleaningLady myLetterVariable = new CleaningLady();
-      myLetterVariable.Name = name;
-      myLetterVariable.Phone = phone;
-      return View(myLetterVariable);
+      return View();
     }
   } 
 }

@@ -78,4 +78,6 @@ anotehr break
  `5: 28 pm` : making more views and routes, this is going better than i thought. 
 
  `5:58 pm` : cleaned up the uia little, just for my own sanity.
+
+ `6:45 pm` : I thin kI need a break, I getting lsot in the sauce. 
  
