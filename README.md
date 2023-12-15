@@ -59,3 +59,18 @@ Break!
 Break!
 
 `7:27 am` : goinna start actually making this thing now
+
+=========================\
+anotehr break
+
+`5:21 pm` : taking baby steps to get this this going. god i dont rememeber C# at all. 
+
+`5:42 pm` : still re learning C#, meessing with Razor and MVC stuff. Why did I do this to myself?
+
+======================\
+`3:45 pm` :  hoping back in.
+
+
+`4:15 pm` : added some basic views and routes with a controller an model. so far so good... 
+ 
+ `5: 08 pm` : jsut readingm ore C# lessons
