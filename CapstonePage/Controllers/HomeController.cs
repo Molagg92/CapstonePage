@@ -9,14 +9,14 @@ namespace Capstone.Controllers
     [HttpGet("/")]
     public ActionResult Index()
     {
-      List<CleaningLady> allCleaningLadys = CleaningLady.GetAll();
-      return View(allCleaningLadys);
+      List<Employee> allEmployees = Employee.GetAll();
+      return View(allEmployees);
     }
 
     [HttpPost("/employees")]
     public ActionResult Employees(string name, int phone)
     {
-       CleaningLady starterCleaningLady = new CleaningLady(name ,  phone);
+       Employee starterEmployee = new Employee(name ,  phone);
       return View("Index");
     }
 

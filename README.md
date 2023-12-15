@@ -92,3 +92,11 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `6:38 am` : List is commign together
 
 `6:53 am` : I just realized I made a grand mistake,I should only bein gusing Cleanign Lady variables, not emoyee. I have a lot of renamig to do but its okay.
+
+
+==================\
+
+
+`1:16 pm` : back
+
+`1:25 pm` : fnished refactoring. notusng Cleaing Lady anymore, just employee
