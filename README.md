@@ -122,3 +122,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 ========================\
 
 `7:24` : moved some UI stuff around, gonna keep reading the lessons.
+
+`7:47` : made model view and controller for service page
