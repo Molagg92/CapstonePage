@@ -116,3 +116,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `8:09` : workinginthe details paide got Employee
 
 `9:12` : Ive hit a wall, for some reason the Id of all my instances are comming back as 0
+
+`9:53` : fixed it, I just needed to clean up my Post /employees statment in te controller! it works fine now!

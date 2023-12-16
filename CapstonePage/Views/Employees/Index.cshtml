@@ -21,7 +21,7 @@
     <ul>
       @foreach (Employee employee in Model)
       {
-        <li><a href='/employees/@(employee.Id)'>@employee.Name</a></li>
+        <li><a href= "/employees/@employee.Id">@employee.Name</a></li>
       }
     </ul>
     <a href="/employees/new">Add a new employee.</a> 

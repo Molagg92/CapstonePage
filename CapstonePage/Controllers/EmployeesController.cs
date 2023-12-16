@@ -20,11 +20,9 @@ namespace Capstone.Controllers
     }
 
     [HttpPost("/employees")]
-    public ActionResult Create(Employee employee)
+    public ActionResult Create(string name, int phone)
     {
-      List<Employee> allEmployees = Employee.GetAll();
-      allEmployees.Add(employee);
-      
+      Employee myEmployee = new Employee(name, phone);
       return RedirectToAction("Index");
     }
 
