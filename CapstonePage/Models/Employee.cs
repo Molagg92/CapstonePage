@@ -7,25 +7,30 @@ namespace Capstone.Models
   {
     public string Name { get; set; }
     public int Phone { get; set; }
-
-    public Employee()
-    {
-       
-    }
+    public int Id { get; }
+    private static List<Employee> _instances = new List<Employee> {};
+    public Employee() {}
     public Employee(string name, int phone)
     {
       Name = name;
       Phone = phone;
-    }
-      private static List<Employee> allEmployees = new List<Employee>
-    {
-      new Employee("Alice", 123),
-      new Employee("Bob", 456),
-      new Employee("Charlie", 789)
-    };
+      _instances.Add(this);
+      Id = _instances.Count;
+    } 
     public static List<Employee> GetAll()
     {
-      return allEmployees;
+      return _instances;
     }
+    public static void ClearAll()
+    {
+      _instances.Clear();
+    }
+    public static Employee Find(int searchId)
+    {
+      return _instances[searchId-1];
+    }
+
+    
+  
   }
 }

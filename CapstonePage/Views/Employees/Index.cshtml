@@ -11,7 +11,6 @@
   </head>
   <body>
     @using Capstone.Models;
-
  
      <h1>TEST! THIS IS THE EMPLOYEE INDEX</h1>
     
@@ -23,12 +22,13 @@
       @foreach (Employee cleaningLady in Model)
       {
         <li>@cleaningLady.Name</li>
-       
       }
-
     </ul>
     <a href="/employees/new">Add a new employee.</a>
     <br />
     <a href="/">back to home</a>
+    <form action="/employees/delete" method="post">
+      <button type="submit" name="button">Clear All Items</button>
+    </form>
   </body>
 </html>

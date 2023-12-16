@@ -108,3 +108,9 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `3:57` : forogot to check in, buti did jus spend the alst 20 minutes relearning how to use 2 controllers at once. gonna keep building out stuff.
 
 `4:42` : been workign on a bug, lits wont populate with new entries. sucsk this is week one stuff.
+
+===========================\
+
+`7:49` : spent a few minuets rewriting the Model. wasnt folloiwng naming conventions.
+
+`8:09` : workinginthe details paide got Employee

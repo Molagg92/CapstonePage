@@ -14,7 +14,7 @@ namespace Capstone.Controllers
     }
 
     [HttpGet("/employees/new")]
-    public ActionResult CreateForm()
+    public ActionResult New()
     {
       return View();
     }
@@ -22,13 +22,19 @@ namespace Capstone.Controllers
     [HttpPost("/employees")]
     public ActionResult Create(Employee employee)
     {
-      // Assuming you have a static list for simplicity
       List<Employee> allEmployees = Employee.GetAll();
-      
-      // Add the new employee
       allEmployees.Add(employee);
       
       return RedirectToAction("Index");
     }
+
+    [HttpPost("/employees/delete")]
+    public ActionResult DeleteAll()
+    {
+      Employee.ClearAll();
+      return View();
+    }
+    
+
   } 
 }
