@@ -34,7 +34,12 @@ namespace Capstone.Controllers
       Employee.ClearAll();
       return View();
     }
-    
+    [HttpGet("/employees/{id}")]
+    public ActionResult Show(int id)
+    {
+      Employee foundEmployee = Employee.Find(id);
+      return View(foundEmployee);
+    }
 
   } 
 }
