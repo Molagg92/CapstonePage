@@ -118,3 +118,7 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `9:12` : Ive hit a wall, for some reason the Id of all my instances are comming back as 0
 
 `9:53` : fixed it, I just needed to clean up my Post /employees statment in te controller! it works fine now!
+
+========================\
+
+`7:24` : moved some UI stuff around, gonna keep reading the lessons.
