@@ -14,6 +14,7 @@ namespace Capstone
       WebApplication app = builder.Build();
 
       app.UseDeveloperExceptionPage();
+      app.UseStaticFiles();
       app.UseHttpsRedirection();
       
       app.UseRouting();

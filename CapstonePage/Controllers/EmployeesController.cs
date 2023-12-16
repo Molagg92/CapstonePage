@@ -13,10 +13,11 @@ namespace Capstone.Controllers
       return View(allEmployees);
     }
 
-    [HttpGet("/employees/new")]
-    public ActionResult New()
+    [HttpGet("/services/{serviceId}/employees/new")]
+    public ActionResult New(int serviceId)
     {
-      return View();
+      Service service = Service.Find(serviceId);
+     return View(service);
     }
 
     [HttpPost("/employees")]
@@ -37,6 +38,16 @@ namespace Capstone.Controllers
     {
       Employee foundEmployee = Employee.Find(id);
       return View(foundEmployee);
+    }
+    [HttpGet("/services/{serviceId}/employees/{employeeId}")]
+    public ActionResult Show(int serviceId, int employeeId)
+    {
+      Employee employee = Employee.Find(employeeId);
+      Service service = Service.Find(serviceId);
+      Dictionary<string, object> model = new Dictionary<string, object>();
+      model.Add("employee", employee);
+      model.Add("service", service);
+      return View(model);
     }
 
   } 

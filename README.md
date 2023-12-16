@@ -126,3 +126,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `7:47` : made model view and controller for service page
 
 `8:08` : made a working object within an object. can assign employees to a service now. pretty cool
+
+`8:57` : been following along with the lessons, i think the road block i hit, was because it is haveing me do one to many relathionships. this is not really want I want. So i wl take somemore time to plan this baby out.
