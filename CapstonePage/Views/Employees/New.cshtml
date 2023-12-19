@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+@* <!DOCTYPE html>
 <html>
   <head>
     <title>Create a new Employee profile</title>
@@ -12,13 +12,13 @@
   <body>
     <h1>Fill in your name and your info</h1>
 
-    @* <form action="/employees" method="post">
+     <form action="/employees" method="post">
      <label for="name">Person's Name</label>
      <input id="name" name="name" type="text">
      <label for="phone">Peron's Phone Number</label>
      <input id="phone" name="phone" type="number">
      <button type="submit">Go!</button>
-    </form> *@
+    </form>
 
     <form action="/services/@Model.Id/employees" method="post">
     <input id="serviceId" name="serviceId" type="hidden" value="@Model.Id">
@@ -32,4 +32,4 @@
     <br />
     <a href="/employees">See a List of Employees.</a>
   </body>
-</html>
+</html>  *@

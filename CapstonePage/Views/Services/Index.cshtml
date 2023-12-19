@@ -1,30 +1,25 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Services Page!</title>
-    <link 
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" 
-      rel="stylesheet" 
-      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" 
-      crossorigin="anonymous">
-  </head>
-  <body>
-    @using Capstone.Models;
+@{
+    Layout = "_Layout";
+}
 
-    <h1>TEST! THIS IS THE SERVIES INDEX</h1>
+@using Capstone.Models;
 
-    @if (@Model.Count == 0)
-    {
-      <h3>No services have been added yet!</h3>
-    } 
 
+<h1>services</h1>
+
+@if (@Model.Count == 0)
+{
+  <h3>No services have been added yet!</h3>
+} 
+else
+{
+  <ul>
     @foreach (Service service in Model)
     {
-      <h3><a href='/services/@service.Id'>@service.Name</a></h3>
+      <li>@Html.ActionLink($"{service.Name}", "Details", new { id = service.ServiceId }) ID# @service.ServiceId</li>
     }
-    <br />
-    <p><a href='/services/new'>add service</a></p>
-    <p><a href='/'>Back home</a></p>
-  </body>
-</html>
+  </ul>
+}
+
+<p>@Html.ActionLink("Add new service", "Create")</p>
+<p>@Html.ActionLink("Home", "Index", "Home")</p>

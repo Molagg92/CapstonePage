@@ -1,10 +1,42 @@
-using Microsoft.AspNetCore.Mvc;
-using Capstone.Models;
 using System.Collections.Generic;
+using System.Linq;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Capstone.Models;
 
 namespace Capstone.Controllers
 {
-  // public class EmployeesController : Controller
+  public class EmployeesController : Controller
+  {
+    private readonly CapstonePageContext _db;
+    public EmployeesController(CapstonePageContext db)
+    {
+      _db = db;
+    }
+
+    public ActionResult Index()
+    {
+      List<Employee> model = _db.Employees.ToList();
+      return View(model);
+    }
+
+   } 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   // {
   //   [HttpGet("/employees")]
   //   public ActionResult Index()
@@ -49,6 +81,4 @@ namespace Capstone.Controllers
   //     model.Add("service", service);
   //     return View(model);
   //   }
-
-  // } 
-}
+    
