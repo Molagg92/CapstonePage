@@ -150,3 +150,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `11:19` : gonna take a quick 15 then get back to my research. the dread is setting in. my time is over.
 
 `11 : 53` Just cheking in , still researching
+
+`12:30` another check in, still reading. and dealing with being sick. this is so terrable. 
