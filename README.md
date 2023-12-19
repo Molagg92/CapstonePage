@@ -139,4 +139,6 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 
 `7:30` : watching youtube videos / reading along. been kind of a slow morning. My head is filled with rage.
 
-`8:08` : still researching, wanted to check in. I might go grab som breakfast real quick.dispite the rage, I am still just a rat in a cage. 
+`8:08` : still researching, wanted to check in. I might go grab som breakfast real quick.
+
+`9:01` : still researching.
