@@ -156,3 +156,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `1:05`  I am almost ready to get back to this cursed thing.
 
 `1: 29` I need a nother brek my head is killing me. be back in 5 minutes.
+
+`2:20` Gonna keep readding for a little longer.
