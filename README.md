@@ -146,3 +146,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `10 : 05` : I guess I will be doing alot of reserach this morning.
 
 `10:34` : just checking in again, still watching this video 
+
+`11:19` : gonna take a quick 15 then get back to my research. the dread is setting in. my time is over.
