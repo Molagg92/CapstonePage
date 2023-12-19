@@ -136,3 +136,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 ==================================\
 
 `6:40` bACK AT MY COMPUTER, GONNA KEEP RADING. i GUESS I HACE SOME Sves inthe chamber that I didnt commit. will commit now.
+
+`7:30` : watching youtube videos / reading along. been kind of a slow morning. My head is filled with rage.
