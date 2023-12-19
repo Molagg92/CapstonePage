@@ -142,3 +142,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `8:08` : still researching, wanted to check in. I might go grab som breakfast real quick.
 
 `9:01` : still researching.
+
+`10 : 05` : I guess I will be doing alot of reserach this morning.
