@@ -162,3 +162,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `3:00` okay time to stop studying
 
 `3:30` filled out the home index alittle. lets see if we can get it working.
+
+`3:36` made the view for the home index real quick, gonna see if this baby fires up or not
