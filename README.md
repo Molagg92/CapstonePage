@@ -144,3 +144,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `9:01` : still researching.
 
 `10 : 05` : I guess I will be doing alot of reserach this morning.
+
+`10:34` : just checking in again, still watching this video 
