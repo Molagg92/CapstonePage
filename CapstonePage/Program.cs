@@ -13,7 +13,7 @@ namespace Capstone
 
       builder.Services.AddControllersWithViews();
 
-      builder.Services.AddDbContext<CapstoneContext>(
+      builder.Services.AddDbContext<CapstonePageContext>(
                         dbContextOptions => dbContextOptions
                           .UseMySql(
                             builder.Configuration["ConnectionStrings:DefaultConnection"], ServerVersion.AutoDetect(builder.Configuration["ConnectionStrings:DefaultConnection"]

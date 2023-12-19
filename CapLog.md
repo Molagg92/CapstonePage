@@ -160,3 +160,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `2:20` Gonna keep readding for a little longer.
 
 `3:00` okay time to stop studying
+
+`3:30` filled out the home index alittle. lets see if we can get it working.
