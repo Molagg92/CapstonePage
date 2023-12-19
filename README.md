@@ -128,3 +128,11 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `8:08` : made a working object within an object. can assign employees to a service now. pretty cool
 
 `8:57` : been following along with the lessons, i think the road block i hit, was because it is haveing me do one to many relathionships. this is not really want I want. So i wl take somemore time to plan this baby out.
+
+=================================\
+
+`11: 14 am` : Im  back, but i think im getting sick. not sick as in hella cool, but sick as in illness. also contrinueing t read about connecting ot datbase/manny-to-may relathinships
+
+==================================\
+
+`6:40` bACK AT MY COMPUTER, GONNA KEEP RADING. i GUESS I HACE SOME Sves inthe chamber that I didnt commit. will commit now.
