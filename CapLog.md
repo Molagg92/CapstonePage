@@ -166,3 +166,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `3:36` made the view for the home index real quick, gonna see if this baby fires up or not
 
 `3:54` refactored the controller and views, maybe it will work now
+
+`4:28` okay i guess im just gonna re install Mysql, I didnt have anythign important there nayway. its totaly fine
