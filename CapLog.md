@@ -172,3 +172,6 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `5:10` dealing with issues with MYSQL, cannot connect. re installing
 
 `5:50` something isnt working, gong to re re install. Lord lend me your patience. Lend me your wisdom. 
+
+`6:27` dude I think I was just using the wrong password.........
+
