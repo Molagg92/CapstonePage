@@ -185,3 +185,6 @@ im gonna call it a night here.
 
 `9:09` So i did not go to bed, I kept trying diffrent things and this is what ive got so far...            This application for wht ever reason will not connect to MySQL.  I cloned down a diffrent project and aws able to get it to connect no prpblem. So the issue wasnt my system.
 * I made a diffrent project, and just copy pasted all the code from here onto the proj, and it seems the new one can connect to MySqL. I was able to run my initial Migration, and run the migration update (altho, nothing happend. I didnt populate a new schema or nothing. might be a problem moving forward.)
+
+
+`9:16` bor I dont know how I did this, but he splash page is working. and its connecting to MySQL. Its working bro.
