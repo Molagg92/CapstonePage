@@ -168,3 +168,5 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 `3:54` refactored the controller and views, maybe it will work now
 
 `4:28` okay i guess im just gonna re install Mysql, I didnt have anythign important there nayway. its totaly fine
+
+`5:10` dealing with issues with MYSQL, cannot connect. re installing
