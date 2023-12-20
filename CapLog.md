@@ -175,3 +175,4 @@ I'm just gonna hold back my break callouts, theres gonna be alot of em.
 
 `6:27` dude I think I was just using the wrong password.........
 
+`7:17` I am running out of options here i dont knwo waht to do to get thsi app to connect to Mysql
