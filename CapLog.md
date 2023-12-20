@@ -188,3 +188,7 @@ im gonna call it a night here.
 
 
 `9:16` bor I dont know how I did this, but he splash page is working. and its connecting to MySQL. Its working bro.
+
+============================================\
+
+`6:20`       I have opened a new project and copied over the important parts, in order to work around this issue i am having with mysql. from this point forward, I will not longer be longging my updates here, i will now be logging my updated at this new repo: `https://github.com/Molagg92/AnasHouseCleaning.git` 
