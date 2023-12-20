@@ -1,5 +1,5 @@
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;Port=3306;database=capstonepage;uid=root;pwd=erikspassword1992;"
+    "DefaultConnection": "Server=localhost;Port=3306;database=week5codereview;uid=root;pwd=erikspassword1992;"
   }
-}
+  }
